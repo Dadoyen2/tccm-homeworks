@@ -15,7 +15,7 @@ Before proceeding, ensure the following are available on your Linux system:
      - The **first line** specifies the number of atoms.
      - Each subsequent line specifies the atom type, its Cartesian coordinates (x, y, z), and its mass.
 
-     Example of `input.txt`:
+     Example of `inp.txt`:
      ```
      2
      Ar 0.0 0.0 0.0 39.95
